@@ -16,9 +16,9 @@ A simple and modern web landing page for **Jamui Super Mart**, offering easy mon
 
 ## 🌐 Live Website
 
-👉 https://yourusername.github.io/repository-name/
+👉 https://SanketSinghRathore.github.io/jsm
 
-*(Replace with your actual link after GitHub Pages is enabled)*
+
 
 ---
 
@@ -28,14 +28,4 @@ Click below to order instantly:
 
 👉 https://wa.me/916202989990
 
----
 
-## 🛠️ Technologies Used
-
-- HTML5  
-- CSS3  
-- GitHub Pages (for hosting)
-
----
-
-## 📂 Project Structure
